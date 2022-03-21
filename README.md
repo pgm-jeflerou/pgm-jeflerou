@@ -6,8 +6,8 @@
 
 - ⚡ Fun fact **I am a swimmer**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ignatius)](https://github.com/anuraghazra/github-readme-stats)
 
+<a target="_blank" href="https://wakatime.com/ignatius"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ignatius&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
