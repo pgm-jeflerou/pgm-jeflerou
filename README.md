@@ -1,5 +1,4 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ignatius)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center">Hi 👋, I'm Jef Leroux</h1>
+https://wakatime.com/@Ignatius
 <h3 align="center">A passionate full stack developer in training from Belgium</h3>
 
 - 🌱 I’m currently learning **Javascipt, CSS en HTML**
