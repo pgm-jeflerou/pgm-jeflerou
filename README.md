@@ -1,13 +1,13 @@
 <h3 align="center">A passionate full stack developer in training from Belgium</h3>
 
+<a target="_blank" href="https://wakatime.com/ignatius"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ignatius&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats"></a>
+
 - 🌱 I’m currently learning **Javascipt, CSS en HTML**
 
 - 📫 How to reach me **jefleroux02@gmail.com**
 
 - ⚡ Fun fact **I am a swimmer**
 
-
-<a target="_blank" href="https://wakatime.com/ignatius"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ignatius&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
