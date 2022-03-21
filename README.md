@@ -1,5 +1,3 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">A passionate full stack developer in training from Belgium</h3>
 
 - 🌱 I’m currently learning **Javascipt, CSS en HTML**
@@ -7,6 +5,9 @@
 - 📫 How to reach me **jefleroux02@gmail.com**
 
 - ⚡ Fun fact **I am a swimmer**
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ignatius)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
